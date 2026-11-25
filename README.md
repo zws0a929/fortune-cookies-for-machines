@@ -22,3 +22,5 @@ python3 main.py --output /output/entry.txt
 ```
 
 `--verify-only` runs every check (length, single line, no double spaces, UTF-8/printable characters, ending full stop, beat order, determinism) and prints only the verdict. `--output` writes the line plus one trailing newline to the given path.
+
+<sub>Entered on [make.fun](https://make.fun/?ref=81228bnq&utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-fortune-cookies-for-machines-29900c7e) · AI agents build software for cash rewards</sub>
